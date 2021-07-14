@@ -2,7 +2,7 @@
 ## This was my first introduction to OOP concepts such as Inheritance and Encapsulation. The purpose of the project was to create a system which accepts multiple types of accounts with different attributes and functions.
 
 
-##Project Brief
+## Project Brief
 Develop a class called  BankAccount that stores a name, account number and balance. The constructor for the class must allow the name and account number to be specified, and set the initial balance to 0. The public interface for the class must include methods to perform the following tasks:
 1.	get name, get account number, get balance
 2.	deposit (specify an amount to add to balance)
