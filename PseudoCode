@@ -1,0 +1,30 @@
+## Pseudo code for BankAccount Class
+
+Public class Bank account
+	Initialize variables (name, acc number, balance) 
+
+Constructor
+	Balance = 0
+	Name = name
+	Accountnumber = accountnumber
+
+Deposit Method
+	If(amount > 0)
+ 		Balance = balance – amount
+
+	Else
+		Error
+
+Withdraw method
+	If (amount > 0)
+		If( amount <= balance) 
+			Balance = balance – amount
+
+Get name
+ 	Returm name
+
+Get account
+	Return account
+
+
+toString method
