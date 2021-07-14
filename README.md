@@ -19,3 +19,8 @@ The constructor will require a name and account number to be specified, and will
 The public interface must also include the following additional methods:
 1.	set/get the overdraft limit
 2.	calculate projected interest (0 if the balance is positive, otherwise multiply current balance by current interest rate)
+
+
+
+
+Please let me know if you would have done anything differently. Thanks.
